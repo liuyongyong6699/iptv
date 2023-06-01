@@ -1,28 +1,3 @@
-#EXTM3U
-#EXTINF:-1, CCTV-1 1M 576			
-	http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227128/index.m3u8?fmt=ts2hls
-#EXTINF:-1, CCTV-1 4M 576			
-	http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227011/index.m3u8?fmt=ts2hls
-#EXTINF:-1, CCTV-1 4M 576			
-	http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227007/index.m3u8?fmt=ts2hls
-#EXTINF:-1, CCTV-1 4M 576			
-	http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227036/index.m3u8?fmt=ts2hls
-#EXTINF:-1, CCTV-1 4M 576			
-	http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227104/index.m3u8?fmt=ts2hls
-#EXTINF:-1, CCTV-1 4M 576			
-	http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227113/index.m3u8?fmt=ts2hls
-#EXTINF:-1, CCTV-1 4M 576			
-	http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227138/index.m3u8?fmt=ts2hls
-#EXTINF:-1, CCTV-1 4M 576			
-	http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227119/index.m3u8?fmt=ts2hls
-#EXTINF:-1, CCTV-1 4M 576			
-	http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227150/index.m3u8?fmt=ts2hls
-#EXTINF:-1, CCTV-1 4M 576			
-	http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227172/index.m3u8?fmt=ts2hls
-#EXTINF:-1, CCTV-1 8M 576			
-	http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227158/index.m3u8?fmt=ts2hls
-#EXTINF:-1, CCTV-1 8M 1080 720拉伸	
-			http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227168/index.m3u8?fmt=ts2hls
 #EXTINF:-1, CCTV-1 8M 1080			
 	http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226917/index.m3u8?fmt=ts2hls
 #EXTINF:-1, CCTV-2 8M 1080			
